@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env*
+tmp/
+*.tsbuildinfo
+
+.playwright-cli/
+output/
+
+data_json/family-state.json
+data_json/uploads/
+data_json/snapshots/
+
+.DS_Store
+*.log

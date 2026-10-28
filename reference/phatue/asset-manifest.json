@@ -1,0 +1,857 @@
+[
+  {
+    "path": "reference/phatue/assets/book_clan/body_page.jpg",
+    "url": "https://app.phatue.vn/assets/assets/book_clan/body_page.jpg",
+    "bytes": 276022,
+    "sha256": "bc49d1a7fc441b282d0336552301cdea07eb97d32163f5880ff529df14b9d2fe",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/book_clan/cover_master.jpg",
+    "url": "https://app.phatue.vn/assets/assets/book_clan/cover_master.jpg",
+    "bytes": 176708,
+    "sha256": "c7b9102eba01e07cac94f82c17f9afe1f53b0f25c7727105592ea6b246bad041",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/book_clan/first_letter_page.jpg",
+    "url": "https://app.phatue.vn/assets/assets/book_clan/first_letter_page.jpg",
+    "bytes": 1358387,
+    "sha256": "ab34831374aecd28f1b0204e296f7a9e0b5ffefe7bba925f9381a43065b7e362",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/book_clan/history_desc_page.jpg",
+    "url": "https://app.phatue.vn/assets/assets/book_clan/history_desc_page.jpg",
+    "bytes": 1349367,
+    "sha256": "a24f6f147d59dfb27206f2344aae1f05d0b3c5529b853ca1b79f0312b3bcf669",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/book_clan/thankful_page.jpg",
+    "url": "https://app.phatue.vn/assets/assets/book_clan/thankful_page.jpg",
+    "bytes": 1116570,
+    "sha256": "f4b352cefeb83fa47f0a659e60c49251f629907320f85afecd5a8d492d30c23f",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/BeVietnamPro-Bold.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/BeVietnamPro-Bold.ttf",
+    "bytes": 139012,
+    "sha256": "2fe6c3f9dbb65f61554d530c16b2eb4ec32ca437dc8f9999a6ec0f6403b30bfe",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/BeVietnamPro-Regular.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/BeVietnamPro-Regular.ttf",
+    "bytes": 132948,
+    "sha256": "cd1ef6e9d7db28ad5cdb88a65ccbe693870e60d340b791f349d248342b4fe4c3",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/Calistoga-Regular.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/Calistoga-Regular.ttf",
+    "bytes": 123796,
+    "sha256": "2db366301cc444dd94218c7d63d1723517bccafc9047141b194f6de128373e50",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/FzThuPhapTieuTu-Full.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/FzThuPhapTieuTu-Full.ttf",
+    "bytes": 182688,
+    "sha256": "8d07c3ce6cc90802330ee8c30918569de51659e2d392f05e852d39dd5e8b8d58",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/LeagueGothic-Regular-VariableFont_wdth.ttf",
+    "bytes": 63956,
+    "sha256": "47be8016dc3e47c28427330caa64ef3a149e8cccbccbb7a130aad061c1604535",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/Muli-Regular.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/Muli-Regular.ttf",
+    "bytes": 90300,
+    "sha256": "d6c3df7d1425858185d5341bd376196878226f126f133ca5e368d8db9680c31c",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/PlayfairDisplay-Bold.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/PlayfairDisplay-Bold.ttf",
+    "bytes": 300724,
+    "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/RobotoSlab-SemiBold.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/RobotoSlab-SemiBold.ttf",
+    "bytes": 126840,
+    "sha256": "b1eff71027ac1bcc8fc57f0011adb9ab9107f94158d27dac78995bfc80c8ff26",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/Rowdies-Regular.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/Rowdies-Regular.ttf",
+    "bytes": 76352,
+    "sha256": "29c98412d1a6e1991ea6cbd36b5fd7cf579d69c1ba14ba857a16c7e8dd9d00a4",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/SairaCondensed-SemiBold.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/SairaCondensed-SemiBold.ttf",
+    "bytes": 88140,
+    "sha256": "c671e322db15e2c43c06f44a8df1979b37fdb571777deaad9a5c122255c8a9ac",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/fonts/SmoochSans-SemiBold.ttf",
+    "url": "https://app.phatue.vn/assets/assets/fonts/SmoochSans-SemiBold.ttf",
+    "bytes": 59052,
+    "sha256": "4ea69a6cd388892a705acded86b6359ed422bf19b04ac964eb32bceec58fcc7c",
+    "contentType": "font/ttf",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/Asset_1.svg",
+    "url": "https://app.phatue.vn/assets/assets/images/Asset_1.svg",
+    "bytes": 272,
+    "sha256": "62c3e2e48dc7e2d518bf7baefae68cb9950c38fec9dcd3086725e7cd1bdef7d9",
+    "contentType": "image/svg+xml",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/account_bg_pattern.png",
+    "url": "https://app.phatue.vn/assets/assets/images/account_bg_pattern.png",
+    "bytes": 69102,
+    "sha256": "d06513cb2ccd172a44cd44c7d6df03c55ab8fe74046cacddead4850720fc5aba",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/cloud_vn.png",
+    "url": "https://app.phatue.vn/assets/assets/images/cloud_vn.png",
+    "bytes": 8734,
+    "sha256": "6c17c72ce9a8d467400e9bbefe297858654f7ed3357611faca17d3f82d38d5ac",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/icon_apple.png",
+    "url": "https://app.phatue.vn/assets/assets/images/icon_apple.png",
+    "bytes": 10239,
+    "sha256": "74868bffb9abe13d23a70843000bedefc88f46d9a964fcdfe66ebca7b16608eb",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/icon_google.png",
+    "url": "https://app.phatue.vn/assets/assets/images/icon_google.png",
+    "bytes": 5269,
+    "sha256": "876b353721f47cc6ba752c7ed1b1985f16eda8da74e7054197b65382629d7b86",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_no_avatar.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_no_avatar.png",
+    "bytes": 21748,
+    "sha256": "6842d2ee832dad6829d6a82d07968722972c7e98d81553ae892bb086a2e57379",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_no_data_familes.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_no_data_familes.png",
+    "bytes": 164003,
+    "sha256": "976c5442976140af4d6d068395d551b21ddd4f7f0acd22dd1311b15bdf8f87c2",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_no_data_family_tree.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_no_data_family_tree.png",
+    "bytes": 161520,
+    "sha256": "3dc0ad8edbdfb4e020dd54b3e1f70a66ddc199b850c6de887a053ea3d9d6bafd",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_onboarding_1.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_onboarding_1.png",
+    "bytes": 228875,
+    "sha256": "63709bdf599621533485c4fb2aed4f86a275deb10ee2f7d26554738c4866384a",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_onboarding_2.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_onboarding_2.png",
+    "bytes": 187689,
+    "sha256": "afb01474c2afabde04e509c5b86699f300f3d19f5923acdda14b3540fc766f79",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_onboarding_3.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_onboarding_3.png",
+    "bytes": 217067,
+    "sha256": "17b22169a433dd3153bd6b107dcc3f1839a9d52363f499daa0aac7ad22a8fc1d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_placeholder.png",
+    "url": "https://app.phatue.vn/assets/assets/images/img_placeholder.png",
+    "bytes": 7705,
+    "sha256": "2080d58585f4049a64928937f9f3e0791f9e383071c10e71114db518b0ec3852",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_user_men.jpg",
+    "url": "https://app.phatue.vn/assets/assets/images/img_user_men.jpg",
+    "bytes": 9606,
+    "sha256": "a0ffc8cfd7f0b54600863bd0d8940d95e32f57bb9a5c3d8ef0bc15a7c90dfacf",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/img_user_women.jpg",
+    "url": "https://app.phatue.vn/assets/assets/images/img_user_women.jpg",
+    "bytes": 10310,
+    "sha256": "33d38a3033043a6545e6dafc7d4122ed1a8cb5b3d7de816dcd05ede238071e87",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/logo.png",
+    "url": "https://app.phatue.vn/assets/assets/images/logo.png",
+    "bytes": 1564273,
+    "sha256": "45bd801fbfc8212d213591031f80520bbc41c1d1e8294eb21475d2d824730a4d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/onboard_img_1.png",
+    "url": "https://app.phatue.vn/assets/assets/images/onboard_img_1.png",
+    "bytes": 1511485,
+    "sha256": "06037e53b34b56d1c7504e5f33e0010870344a2723723b6c474de80c3b58551a",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/onboard_img_2.png",
+    "url": "https://app.phatue.vn/assets/assets/images/onboard_img_2.png",
+    "bytes": 1684344,
+    "sha256": "534790a817bf356992ad845ce560487d37aa4c6551713abe94e8b8000dc975c5",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/onboard_img_3.png",
+    "url": "https://app.phatue.vn/assets/assets/images/onboard_img_3.png",
+    "bytes": 3283481,
+    "sha256": "33c1adb08530aa090e085d035a2d12ea8a7bbe23e1e4190d5b9cee5902e6ed06",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/onboard_img_4.png",
+    "url": "https://app.phatue.vn/assets/assets/images/onboard_img_4.png",
+    "bytes": 1897804,
+    "sha256": "32b6651ea2c356098c714177eecb797a1ce0fe5a9608d943c3f6251b8ac3cd0e",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/onboard_img_5.png",
+    "url": "https://app.phatue.vn/assets/assets/images/onboard_img_5.png",
+    "bytes": 726988,
+    "sha256": "e0bd8d7e14a59ecc71b39713e5c8072346df0133bf076c307b86a451b736c7ab",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/pha_tue_128.jpg",
+    "url": "https://app.phatue.vn/assets/assets/images/pha_tue_128.jpg",
+    "bytes": 1875,
+    "sha256": "d5987c7e0577250ecfc69fd4cc7c12102725078f59f709f204399e9d57561dc2",
+    "contentType": "image/jpeg",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/tu_duong/sc-bg.png",
+    "url": "https://app.phatue.vn/assets/assets/images/tu_duong/sc-bg.png",
+    "bytes": 1069145,
+    "sha256": "f7c503c32874dde8e3770ac888ce539b8293ead339da16248e0fac473e883116",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/images/tu_duong/sc-bowl.png",
+    "url": "https://app.phatue.vn/assets/assets/images/tu_duong/sc-bowl.png",
+    "bytes": 1945460,
+    "sha256": "de50f0420bd9aecbacd5581a4ff273da8d94bd3c3d988501e9b1d82a571b5fe5",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/BG_pattern_1200x1200.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/BG_pattern_1200x1200.png",
+    "bytes": 1880269,
+    "sha256": "be5db51ff3f396d2ed791428fbbc6ca51a1f9c8e5c989363c9e4d0e5cb888011",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Cell_mate_boder_240x360.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Cell_mate_boder_240x360.png",
+    "bytes": 2002,
+    "sha256": "39348c3450d40325cf55e0bacb46d087a0cc1645d40ec82c5f786af9fb201344",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Cell_root_boder_240x360.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Cell_root_boder_240x360.png",
+    "bytes": 2311,
+    "sha256": "46e2debaf7992e2b7b2ace6ca01ded0f0ad2936e507bf4c808c9d09deccea987",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Dragon_600x1035-to-right.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Dragon_600x1035-to-right.png",
+    "bytes": 997037,
+    "sha256": "72246c9ecfb61692d9231c491258cc26a575732c96111d763a1d4163e3d96fb6",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Dragon_600x1035.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Dragon_600x1035.png",
+    "bytes": 996744,
+    "sha256": "e948c66fe1beb6ff6466fdd415d93d0075c5f0642278b05edc11651e4c25ba67",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Frame_border_corner_180x180.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Frame_border_corner_180x180.png",
+    "bytes": 2601,
+    "sha256": "d0e2ee1f11a4302d736f7541d333ef5a570148a3419e461ed8f56cde17d067e3",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Frame_border_hor_middle_360x180.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Frame_border_hor_middle_360x180.png",
+    "bytes": 3065,
+    "sha256": "95ff0557bf39d7470b4c1904e6989dee12d77aa2244b281426ec5d7eb96651d5",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Frame_border_line_140x90.png",
+    "status": "unavailable",
+    "error": "SPA fallback, not an asset"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Frame_border_line_90x92.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Frame_border_line_90x92.png",
+    "bytes": 4680,
+    "sha256": "535ef025a5cba5cdd75639c444d86f55f55d00dbc3a5b4b0628d8539d1d779ce",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Frame_border_ver_middle_90x360.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Frame_border_ver_middle_90x360.png",
+    "bytes": 2863,
+    "sha256": "8992aa16926f3e884515f6800b2ec797ae6492ca82d1f9fe81b99baefcf66dec",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/Hoanh_Phi_1200x600.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/Hoanh_Phi_1200x600.png",
+    "bytes": 615105,
+    "sha256": "4714931e43afaf73d0ef650c28edb54f66c742b8e99f5cf70df8f2be65e1c66d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/node_concer_01.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/node_concer_01.png",
+    "bytes": 3568,
+    "sha256": "4d9ab190f1795aa6c4f3c550d9c2e05a4f890054c26aecf7fc171b9f9bdbfeb3",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/node_concer_02.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/node_concer_02.png",
+    "bytes": 3250,
+    "sha256": "1ab2525e6aa8979983757c5bc380add5dd96209a9420337e9d598719f814f8da",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/node_concer_03.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/node_concer_03.png",
+    "bytes": 2732,
+    "sha256": "e48584ecfbcfdcb1fb0f4b36813b7d0ac85cb8e9248a9a2e460b440918b4efde",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/node_concer_04.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/node_concer_04.png",
+    "bytes": 2340,
+    "sha256": "ae4eff7ae96db19d55711f17fea4a09c609e236ef20a5eb5ba31e3883a7cbd8d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads001/preview.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads001/preview.png",
+    "bytes": 265988,
+    "sha256": "6bf0367afebf9578de7841dcbd220240bc04eb18375a85470e091f7ffeca3c47",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/BG_pattern_1200x1200.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/BG_pattern_1200x1200.png",
+    "bytes": 483961,
+    "sha256": "a2e49e01dba9c96a094c0a82d9f83e79d90a3ca0823a8ef567d4fb41855f6d0d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Dragon_900x490-to-right.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Dragon_900x490-to-right.png",
+    "bytes": 189958,
+    "sha256": "dd4df87181f1767d6acd443edf2073004fdd42e5cdc94823258022e87ea44e31",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Dragon_900x490.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Dragon_900x490.png",
+    "bytes": 172081,
+    "sha256": "19ab65a9740752428190320e04982d2c2d368e598682ccf5091967aa750074b5",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Frame_border_corner_180x180.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Frame_border_corner_180x180.png",
+    "bytes": 1236,
+    "sha256": "2de8f31750775b39747f811070c8224199f4f9631bee19efbd76308fe0dc3550",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Frame_border_hor_middle_360x90.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Frame_border_hor_middle_360x90.png",
+    "bytes": 2103,
+    "sha256": "0c6edb67643a18d4310070df1d2ebe2039e5d539b33126f964186da82234b008",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Frame_border_line_140x90.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Frame_border_line_140x90.png",
+    "bytes": 1913,
+    "sha256": "2534b68d51ef6a2489246be5ab70e154147415ed19585ce501ea0ed5e1e6f5a9",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Frame_border_ver_middle_30x360.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Frame_border_ver_middle_30x360.png",
+    "bytes": 1896,
+    "sha256": "be813262b66fcaa581e6690df153265f084b51d0156aa900ae6aa060175093b6",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/Hoanh_Phi_1200x600.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/Hoanh_Phi_1200x600.png",
+    "bytes": 352877,
+    "sha256": "b842581d7a7416670b2b6abf7c4ccdcde68a73ab57f172f62903e801b07a83d1",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/node_concer_01.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/node_concer_01.png",
+    "bytes": 3568,
+    "sha256": "4d9ab190f1795aa6c4f3c550d9c2e05a4f890054c26aecf7fc171b9f9bdbfeb3",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/node_concer_02.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/node_concer_02.png",
+    "bytes": 3250,
+    "sha256": "1ab2525e6aa8979983757c5bc380add5dd96209a9420337e9d598719f814f8da",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/node_concer_03.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/node_concer_03.png",
+    "bytes": 2732,
+    "sha256": "e48584ecfbcfdcb1fb0f4b36813b7d0ac85cb8e9248a9a2e460b440918b4efde",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/ads002/node_concer_04.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/ads002/node_concer_04.png",
+    "bytes": 2340,
+    "sha256": "ae4eff7ae96db19d55711f17fea4a09c609e236ef20a5eb5ba31e3883a7cbd8d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/BG_pattern_1600x1200.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/BG_pattern_1600x1200.png",
+    "bytes": 2731021,
+    "sha256": "0a161ca51a1df738cf24775533027e14be3965fe9f6b02428d3ed6faab49d391",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Cell_mate_boder_240x360.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Cell_mate_boder_240x360.png",
+    "bytes": 923,
+    "sha256": "3615010c8e5423fb02d4011da065d8bc512a9ce1cf1e78f21f4ae5ef83b21207",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Cell_root_boder_244x348.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Cell_root_boder_244x348.png",
+    "bytes": 15242,
+    "sha256": "fa9eb23c761a3eb6ecfd52538a6f338e7b4552e4dc84d61bc63341e5a8fd850a",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Dragon02_680x1200.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Dragon02_680x1200.png",
+    "bytes": 198272,
+    "sha256": "403c1dcc11f5817942a9e893ff86d09e74d16c90bd1ad5d0fa07b82b5416bda2",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Dragon_680x1200.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Dragon_680x1200.png",
+    "bytes": 199029,
+    "sha256": "c089f770fc532200c87e24fe2832f449a7a3ec24c416ad4fbbd560f4ab5ad7bd",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Frame_border_corner_180x180.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Frame_border_corner_180x180.png",
+    "bytes": 21836,
+    "sha256": "3d738f8b8d593c8f3b920316cd8b8eed8994a107b13ce797fa8cfdb56f42e7fa",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Frame_border_hor_middle_182x94.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Frame_border_hor_middle_182x94.png",
+    "bytes": 14746,
+    "sha256": "a4a5e25bc121b9c782b0d8a60d5432cf37b044b19c96c5c6acf9846712f561dd",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Frame_border_line_90x92.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Frame_border_line_90x92.png",
+    "bytes": 3897,
+    "sha256": "cf596d4ce46d7470b16cf2e92491847f38c267d593af97b3b6beb2116186b26d",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Frame_border_ver_middle_92x188.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Frame_border_ver_middle_92x188.png",
+    "bytes": 12390,
+    "sha256": "21f40db4369f237eed0566fe85cbf4756012c8649d0b798b2084b768917b55b6",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/Hoanh_Phi_1200x614.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/Hoanh_Phi_1200x614.png",
+    "bytes": 393012,
+    "sha256": "23bd627e497978dd35366c06c13e32544723c6858b252afdccb5928fd1b1f7f0",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/cau_doi_preview.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/cau_doi_preview.png",
+    "bytes": 17141,
+    "sha256": "8cd3a410fdc84babbac4846165fff3594cce4e5f702b865c1c4f34591a7f6807",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/node_concer_01.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/node_concer_01.png",
+    "bytes": 28816,
+    "sha256": "269101aca87cbf1bc487bc338310b7eb94297ac3638ffff1c8e3bd8dd8fcdc0a",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/node_concer_02.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/node_concer_02.png",
+    "bytes": 17720,
+    "sha256": "73647492a4944d5c66dbcddaced5e2446c6e5d0e4a1800f67af1747a499cb54a",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/node_concer_03.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/node_concer_03.png",
+    "bytes": 10267,
+    "sha256": "9eb9ab3d163e19b8a17f824af0b29f646b482a7783f359d587dddd42087ccef8",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/node_concer_04.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/node_concer_04.png",
+    "bytes": 11404,
+    "sha256": "083a294ae85b99a066ad8af568a38c89e6d0097a72f1b6b5cd434ae305afcfc4",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/preview.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/preview.png",
+    "bytes": 332814,
+    "sha256": "882a5553750a53ad916631d7c892665b0af9545164d9e28c010707fd04ae64fa",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/preview001.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/preview001.png",
+    "bytes": 284460,
+    "sha256": "18d7c1d5da01f7a0e6288f38a156006a3aacec713a62d939501ef94e451ecb17",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/free001/the_he_preview.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/free001/the_he_preview.png",
+    "bytes": 31383,
+    "sha256": "48c39b2628ce5a2b949a6ccdd3f91d8cbd9cecb4e33ff11dcd5a63f4380b157c",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  },
+  {
+    "path": "reference/phatue/assets/themes/wooden_frame_a0.png",
+    "url": "https://app.phatue.vn/assets/assets/themes/wooden_frame_a0.png",
+    "bytes": 704220,
+    "sha256": "233e588a68c803743a55db582b3e93721d485c1a8c2d2a769e16e2f89eebdce8",
+    "contentType": "image/png",
+    "status": "downloaded",
+    "usage": "reference-only",
+    "license": "Not established by the public download"
+  }
+]

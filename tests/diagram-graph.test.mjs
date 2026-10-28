@@ -1,0 +1,5 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {lineageIds,ancestorIds} from '../lib/diagram-graph.mjs';
+const people=[{id:'a',parentId:null},{id:'b',parentId:'a'},{id:'sibling',parentId:'a'},{id:'c',parentId:'b',motherId:'m'},{id:'m',parentId:null},{id:'d',parentId:'c',relationshipType:'adopted'},{id:'gap',parentId:null}];
+test('Direct lineage includes both parents and descendants, excludes siblings and disconnected roots',()=>{assert.deepEqual([...lineageIds(people,'b')].sort(),['a','b','c','d']);assert.deepEqual([...lineageIds(people,'c')].sort(),['a','b','c','d','m']);assert(!lineageIds(people,'c').has('gap'))});
+test('Finding a deep person reveals explicit ancestors without creating links across gaps',()=>{assert.deepEqual([...ancestorIds(people,'d')].sort(),['a','b','c','d','m']);assert.deepEqual([...ancestorIds(people,'gap')],['gap']);assert.equal(ancestorIds(people,'missing').size,0)});
+test('Traversal remains bounded if a corrupt external graph contains a cycle',()=>{assert.equal(lineageIds([{id:'a',parentId:'b'},{id:'b',parentId:'a'}],'a').size,2)});

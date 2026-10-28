@@ -1,0 +1,2 @@
+export type SourceEvidence={page:number;kind:string;household?:number;childHousehold?:number|null;nameInSource?:string;generationInSource?:number|null};
+export type Person={id:string;name:string;generation:number;parentId:string|null;motherId?:string|null;spouseIds?:string[];birthDate?:string;deathDate?:string;phone?:string;email?:string;address?:string;occupation?:string;biography?:string;spouse:string;branch:string;note:string;death:string;page:number;gender:string;status:string;relationshipStatus?:string;relationshipType?:string;sources?:SourceEvidence[]};

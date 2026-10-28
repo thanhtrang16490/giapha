@@ -1,0 +1,134 @@
+{
+  "source": "https://app.phatue.vn/gia-pha/",
+  "method": [
+    "Browser inspection of reachable demo states",
+    "Static inspection of public Flutter Web HTML and compiled JavaScript",
+    "Download of asset keys under the Flutter public assets directory"
+  ],
+  "frontend": "Flutter Web; compiled Dart JavaScript, original Dart/backend unavailable",
+  "sourceSha256": "7bc9563dc7f3bef59070c302e144d686938d12e4adef5ac50033b339f7092803",
+  "familyPages": [
+    {
+      "path": "/gia-pha",
+      "title": "Danh mục gia phả",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Observed demo family listing",
+      "localModule": "home"
+    },
+    {
+      "path": "/gia-pha/:id",
+      "title": "Không gian chi họ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Observed demo family hub",
+      "localModule": "home"
+    },
+    {
+      "path": "/gia-pha/:id/chinh-sua-voi-cay-gia-pha",
+      "title": "Cây gia phả / thêm sửa quan hệ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Observed 79-person demo tree and member biography/relationships",
+      "localModule": "tree,people"
+    },
+    {
+      "path": "/gia-pha/:id/danh-ba",
+      "title": "Danh bạ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "contacts"
+    },
+    {
+      "path": "/gia-pha/:id/danh-sach-nhanh",
+      "title": "Chi, cành",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "branches"
+    },
+    {
+      "path": "/gia-pha/:id/danh-sach-thanh-vien",
+      "title": "Danh sách thành viên",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "people"
+    },
+    {
+      "path": "/gia-pha/:id/giao-dien",
+      "title": "Thiết kế phả đồ cũ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "tree"
+    },
+    {
+      "path": "/gia-pha/:id/ho-so",
+      "title": "Phả ký / hồ sơ in",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "stories"
+    },
+    {
+      "path": "/gia-pha/:id/tai-san",
+      "title": "Tài sản, quỹ, vận động",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "assets,finance"
+    },
+    {
+      "path": "/gia-pha/:id/trang-chu",
+      "title": "Trang chủ / phả hệ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Observed family hub; detail navigation fell back to hub in demo session",
+      "localModule": "people"
+    },
+    {
+      "path": "/gia-pha/:id/tu-duong",
+      "title": "Từ đường",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Route present in public bundle; dedicated page not visually verified in current demo session",
+      "localModule": "altar"
+    },
+    {
+      "path": "/gia-pha/:id/ve-pha-do",
+      "title": "Trình biên tập phả đồ",
+      "evidence": "Compiled router declaration; UI entry where visible",
+      "visualVerification": "Observed editor, generation inspector, paper/spacing/styles",
+      "localModule": "tree"
+    }
+  ],
+  "additionalFeatures": [
+    {
+      "feature": "Member biography, multiple spouse references, parent/child links, portrait/photos",
+      "evidence": "Observed demo profile",
+      "local": "Editable person metadata, linked parents/spouses, gallery tags, source evidence"
+    },
+    {
+      "feature": "Events and lunar calendar",
+      "evidence": "Observed platform event tab with lunar/solar calendar and Can Chi",
+      "local": "events,calendar; astronomical conversion only, not guaranteed auspicious-day predictions"
+    },
+    {
+      "feature": "Sharing/editors and account permissions",
+      "evidence": "Public source labels and editors routes",
+      "local": "Not implemented as fake permissions; local internal server has no multi-user authentication"
+    },
+    {
+      "feature": "AI tools, virtual currency, affiliate, shop/payments",
+      "evidence": "Public platform-level routes and strings",
+      "local": "Not ported; proprietary online services outside the family data app"
+    },
+    {
+      "feature": "Social community posts/comments/notifications",
+      "evidence": "Public platform-level routes",
+      "local": "Local family stories and memorials; no social-network synchronization"
+    },
+    {
+      "feature": "Excel export and book settings",
+      "evidence": "Public source export worksheet labels and book-settings fields",
+      "local": "14-sheet Excel export; book PDF, source reader and backup restore"
+    },
+    {
+      "feature": "Family games",
+      "evidence": "Visible demo family menu",
+      "local": "Source-backed genealogy quiz"
+    }
+  ],
+  "scope": "Implemented independently for one Lai clan workspace, not a copy of proprietary backend or a claim of full verified platform parity."
+}

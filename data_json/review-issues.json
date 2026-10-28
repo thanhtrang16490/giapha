@@ -1,0 +1,914 @@
+[
+  {
+    "type": "source_conflict",
+    "personId": "nt1-house-17-16",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 22,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Dũng; tên chủ hộ: Lại Thế Dung. Ghép theo mã hộ 17 và mã hộ cha 10."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt1-house-18-17",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 22,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 20."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt1-house-19-18",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 22,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 20."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt1-child-18-17-0",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 23,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt1-child-18-17-1",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 23,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt1-child-19-18-0",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 23,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt1-child-19-18-1",
+    "branch": "Cành 1 · Ngành trưởng",
+    "page": 23,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-14-13",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 28,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Xuyến; tên chủ hộ: Lại Thế Xuyền. Ghép theo mã hộ 14 và mã hộ cha 5."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-18-17-6",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 31,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-20-19-4",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 31,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-48-47",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 32,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Ủy; tên chủ hộ: Lại Thế Uỷ. Ghép theo mã hộ 48 và mã hộ cha 22."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-56-55",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 32,
+    "details": [
+      "Tên trong danh sách con: Lại The Uyên; tên chủ hộ: Lại Thế Uyên. Ghép theo mã hộ 56 và mã hộ cha 25."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-103-102",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 33,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 20."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-63-62",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 33,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Hiển; tên chủ hộ: Lại Thế Hiến. Ghép theo mã hộ 63 và mã hộ cha 27."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-78-77",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 34,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 20."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-121-120",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 35,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Quảng; tên chủ hộ: Lại Thế Quang. Ghép theo mã hộ 121 và mã hộ cha 37."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-126-126",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 37,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Thủy; tên chủ hộ: Lại Thế Nam. Ghép theo mã hộ 126 và mã hộ cha 50."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-74-73-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 40,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-74-73-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 40,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-house-102-101",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 40,
+    "details": [
+      "Đời trong danh sách con: 20; đời tại hộ riêng: 11."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-78-77-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 41,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-78-77-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 41,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-81-80-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 41,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-89-88-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 42,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-102-101-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 43,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-102-101-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 43,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-103-102-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 44,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-106-105-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 44,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-117-116-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-119-118-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-120-119-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt2-child-120-119-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-121-120-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-121-120-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-121-120-2",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-122-121-0",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt2-child-122-121-1",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "details": [
+      "Đời ghi trong nguồn (21) không liền sau đời của chủ hộ (19)."
+    ]
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-108-107",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 44,
+    "household": 108,
+    "parentHousehold": 70,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-112-111",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "household": 112,
+    "parentHousehold": 70,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-116-115",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "household": 116,
+    "parentHousehold": 70,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-117-116",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "household": 117,
+    "parentHousehold": 70,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-118-117",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 45,
+    "household": 118,
+    "parentHousehold": 70,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt2-house-125-125",
+    "branch": "Cành 2 · Ngành trưởng",
+    "page": 46,
+    "household": 125,
+    "parentHousehold": 107,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-4-3-3",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 65,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-4-3-4",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 65,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-5-4-3",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 65,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-11-10",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 66,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Đổng; tên chủ hộ: Lại Thế Đồng. Ghép theo mã hộ 11 và mã hộ cha 7."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-23-22",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 67,
+    "details": [
+      "Đời trong danh sách con: 18; đời tại hộ riêng: 19.",
+      "Đời ghi trong nguồn (18) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-27-26",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 67,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 10."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-29-28",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 68,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Tiến; tên chủ hộ: Lại ThếTiến. Ghép theo mã hộ 29 và mã hộ cha 14."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-61-60",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": [
+      "Đời trong danh sách con: 20; đời tại hộ riêng: 21.",
+      "Đời ghi trong nguồn (20) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-child-23-22-1",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": [
+      "Đời ghi trong nguồn (20) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-26-25-0",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-26-25-1",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-27-26-0",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nt3-child-27-26-1",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 69,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-58-57",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 71,
+    "details": [
+      "Đời trong danh sách con: 22; đời tại hộ riêng: 21."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt3-house-59-58",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 72,
+    "details": [
+      "Đời trong danh sách con: 22; đời tại hộ riêng: 21."
+    ]
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-45-44",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 71,
+    "household": 45,
+    "parentHousehold": 22,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-46-45",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 71,
+    "household": 46,
+    "parentHousehold": 16,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-49-48",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 72,
+    "household": 49,
+    "parentHousehold": 38,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-57-56",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 72,
+    "household": 57,
+    "parentHousehold": 45,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-60-59",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 73,
+    "household": 60,
+    "parentHousehold": 48,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nt3-house-64-63",
+    "branch": "Cành 3 · Ngành trưởng",
+    "page": 73,
+    "household": 64,
+    "parentHousehold": 34,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-16-15",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 84,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Triệu; tên chủ hộ: Lại Văn Triệu. Quan hệ đối chiếu trực quan ở sơ đồ PDF 90."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-child-13-12-0",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 85,
+    "details": [
+      "Đời ghi trong nguồn (18) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-24-23",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 85,
+    "details": [
+      "Đời trong danh sách con: 18; đời tại hộ riêng: 19.",
+      "Đời ghi trong nguồn (18) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-26-25",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 85,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Thuyết; tên chủ hộ: Lại Nam Thuyết. Quan hệ đối chiếu trực quan ở sơ đồ PDF 90."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-28-27",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 85,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Thung; tên chủ hộ: Lại Văn Thung. Quan hệ đối chiếu trực quan ở sơ đồ PDF 90."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-31-30",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 85,
+    "details": [
+      "Tên trong danh sách con: Lại Văn Chung; tên chủ hộ: Lại Thế Chung. Quan hệ đối chiếu trực quan ở sơ đồ PDF 91."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-36-32",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 86,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Vương; tên chủ hộ: Lại Thế Vượng. Quan hệ đối chiếu trực quan ở sơ đồ PDF 92."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-37-34",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 86,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Thuần; tên chủ hộ: Lại Đức Thuần. Quan hệ đối chiếu trực quan ở sơ đồ PDF 93."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-34-35",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 86,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Quyết; tên chủ hộ: Lại Văn Quyết. Quan hệ đối chiếu trực quan ở sơ đồ PDF 94."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-35-36",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 86,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Thắng; tên chủ hộ: Lại Văn Thắng. Quan hệ đối chiếu trực quan ở sơ đồ PDF 94."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-child-24-23-0",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 86,
+    "details": [
+      "Đời ghi trong nguồn (20) không liền sau đời của chủ hộ (18)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nt4-house-40-39",
+    "branch": "Cành 4 · Ngành trưởng",
+    "page": 87,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Nam; tên chủ hộ: Lại Văn Nam. Quan hệ đối chiếu trực quan ở sơ đồ PDF 91."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-0",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 100,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-1",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 100,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-2",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 100,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-3",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 100,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-4",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 100,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-13-12-5",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 101,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh1-house-28-27",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 101,
+    "details": [
+      "Đời trong danh sách con: 20; đời tại hộ riêng: 21."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh1-child-28-27-0",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 103,
+    "details": [
+      "Đời ghi trong nguồn (22) không liền sau đời của chủ hộ (20)."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh1-child-28-27-1",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 103,
+    "details": [
+      "Đời ghi trong nguồn (22) không liền sau đời của chủ hộ (20)."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-28-27-2",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 103,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh1-child-31-30-1",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 103,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nh1-house-7-6",
+    "branch": "Cành 1 · Ngành thứ",
+    "page": 99,
+    "household": 7,
+    "parentHousehold": 4,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-house-6-5",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 110,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-house-7-6",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 110,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-house-10-9",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-house-11-10",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-6-5-2",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-house-12-11",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-6-5-4",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-14-13",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 111,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Xổ; tên chủ hộ: Lại Thế Sổ. Ghép theo mã hộ 14 và mã hộ cha 7."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-30-29",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 112,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Mẩn; tên chủ hộ: Lại Thế Mẫn. Ghép theo mã hộ 30 và mã hộ cha 14."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-36-35",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 113,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Tào; tên chủ hộ: Lạt Thế Tào. Ghép theo mã hộ 36 và mã hộ cha 16."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-51-50",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 114,
+    "details": [
+      "Tên trong danh sách con: Lại Thế Cượng; tên chủ hộ: Lai Thế Cương. Ghép theo mã hộ 51 và mã hộ cha 22."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-28-27-2",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 115,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-61-60",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 116,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 10."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-83-82",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 116,
+    "details": [
+      "Đời trong danh sách con: 19; đời tại hộ riêng: 20."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-69-68",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 118,
+    "details": [
+      "Tên trong danh sách con: Lại Văn Đương; tên chủ hộ: Lại Thế Đương. Ghép theo mã hộ 69 và mã hộ cha 44."
+    ]
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-house-70-69",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 118,
+    "details": [
+      "Tên trong danh sách con: Lại Văn Hường; tên chủ hộ: Lại Thế Hường. Ghép theo mã hộ 70 và mã hộ cha 44."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-58-57-0",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 119,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-58-57-1",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 119,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-58-57-2",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 119,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-61-60-2",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 119,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "source_conflict",
+    "personId": "nh2-child-71-70-2",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 120,
+    "details": [
+      "Đời ghi trong nguồn (11) không liền sau đời của chủ hộ (20)."
+    ]
+  },
+  {
+    "type": "inferred_generation",
+    "personId": "nh2-child-75-74-1",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 121,
+    "details": "Ô đời chưa đọc được trên cùng hàng; đời hiển thị dựa vào hộ và cần đối chiếu."
+  },
+  {
+    "type": "unresolved_parent",
+    "personId": "nh2-house-79-78",
+    "branch": "Cành 2 · Ngành thứ",
+    "page": 121,
+    "household": 79,
+    "parentHousehold": 39,
+    "details": "Chưa tìm được dòng con tương ứng trong hộ cha; không nối chỉ theo tên hoặc đời."
+  }
+]

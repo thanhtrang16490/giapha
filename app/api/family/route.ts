@@ -1,0 +1,6 @@
+import {readFile} from 'node:fs/promises';
+import path from 'node:path';
+import {basePeople,mergedPeople,mutateFamily,readState} from '@/lib/family-store';
+export const runtime='nodejs';export const dynamic='force-dynamic';
+export async function GET(){try{const [base,state,contributions]=await Promise.all([basePeople(),readState(),readFile(path.join(process.cwd(),'data_json/contributions.json'),'utf8').then(JSON.parse)]);return Response.json({state,people:mergedPeople(base,state),archivedPeople:mergedPeople(base,state,true).filter(p=>state.archivedPeople.includes(p.id)),contributions},{headers:{'Cache-Control':'no-store'}})}catch{return Response.json({error:'Chưa đọc được dữ liệu gia đình.'},{status:500})}}
+export async function POST(request:Request){try{const origin=request.headers.get('origin');if(origin&&new URL(origin).host!==request.headers.get('host'))return Response.json({error:'Yêu cầu không hợp lệ.'},{status:403});const text=await request.text();if(text.length>5*1024*1024)return Response.json({error:'Nội dung quá dài.'},{status:413});const result=await mutateFamily(JSON.parse(text));return Response.json(result)}catch(e){const error=e as Error&{status?:number};return Response.json({error:error.status?error.message:'Chưa lưu được dữ liệu.'},{status:error.status||500})}}
