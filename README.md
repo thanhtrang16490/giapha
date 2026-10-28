@@ -104,3 +104,9 @@ Nghiên cứu Phả Tuệ: xem [bảng đối chiếu](docs/phatue-feature-audit
 Trong **Phả đồ → Mở rộng trình biên tập**, dùng mục **Trang trí** bên trái để thêm hoành phi, cặp rồng chầu, chữ hoặc ảnh. Chọn lớp để kéo trên canvas, kéo nút ở góc phải dưới để đổi kích thước; có nhập tọa độ/kích thước chính xác trong bảng phải. Phím mũi tên dịch 1 px, Shift + mũi tên dịch 10 px. Có phông chữ, căn chữ, màu/nền/viền, độ đậm, khóa/ẩn, thứ tự chồng lớp, nhân đôi và hoàn tác xóa. Tối đa 20 lớp mỗi bố cục.
 
 Nền có trắng, giấy vàng hoặc hoa văn hình học. Ảnh gia đình chọn từ Album; ảnh hoành phi/rồng chầu tham khảo được phục vụ cục bộ từ manifest Phả Tuệ. Không nhận URL ảnh ngoài. **Lưu bố cục** lưu metadata trang trí trong trình duyệt, không nhúng nhị phân ảnh; sao lưu tệp ảnh riêng khi chuyển máy. PDF tính cả lớp nằm ngoài cây, bỏ lớp ẩn, nhúng chữ Việt và ảnh đã chọn.
+
+## Triển khai Dokploy / Nixpacks
+
+Dự án dùng Node.js 22 và npm 10 trở lên. `nixpacks.toml` cố định Node 22, cài bằng `npm ci --include=dev`, build `npm run build`, khởi động `npm run start`. Cổng ứng dụng mặc định 3000, lắng nghe `0.0.0.0`; đặt cổng đích của domain Dokploy tương ứng. Không dùng Yarn cho repository có `package-lock.json` này.
+
+Sau khi cập nhật mã, triển khai lại để áp dụng runtime mới. Phần JSON chỉnh sửa và ảnh tải lên cần ổ lưu trữ bền vững nếu giữ dữ liệu qua các lần tạo lại container; xem phạm vi vận hành và các đường dẫn dữ liệu ở trên.
